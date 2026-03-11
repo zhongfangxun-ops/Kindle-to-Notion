@@ -32,8 +32,8 @@ DATABASE_ID = "your_database_id_here"
 - Database ID：打开数据库页面，URL 中的 32 位字符串
 
 **数据库属性要求：**
-- `书名`（Title 类型）
-- `作者`（Rich Text 类型）
+- `Names`（Title 类型）
+- `Author`（Rich Text 类型）
 
 ### 3. 准备笔记文件
 
