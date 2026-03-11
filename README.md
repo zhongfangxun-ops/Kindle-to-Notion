@@ -39,7 +39,7 @@ DATABASE_ID = "your_database_id_here"
 
 将以下文件放在脚本同目录下：
 - `My Clippings.txt`（Kindle 导出的笔记文件）
-- 或/和 `.html` 文件（Kindle 笔记导出的 HTML 格式）
+- 或/和 `.html` 文件（app端Kindle 笔记导出的 HTML 格式）
 
 ### 4. 运行脚本
 
