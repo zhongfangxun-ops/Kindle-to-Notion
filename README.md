@@ -1,4 +1,4 @@
-# Kindle 笔记导入 Notion - 极致健壮版
+# Kindle 笔记导入 Notion - 支持移动端kindle app html格式笔记导入
 
 ## 功能特点
 
